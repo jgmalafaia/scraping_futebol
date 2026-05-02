@@ -1,0 +1,4 @@
+dados_futebol/
+__pycache__/
+*.pyc
+.env
